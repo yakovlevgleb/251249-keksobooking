@@ -1,5 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/yakovlevgleb/251249-keksobooking.svg)](https://greenkeeper.io/)
+
 * Студент: [Gleb Yakovlev](https://up.htmlacademy.ru/javascript/11/user/251249).
 * Наставник:
 
